@@ -1,0 +1,51 @@
+.first{
+color:red;
+font-weight: bold;
+}
+
+.second{
+color:blue;
+font-weight: bold;
+}
+
+.size{
+font-size: 30px;
+}
+
+.font{
+	font-family: Arial;
+}
+
+.transform{
+	text-transform: uppercase;
+}
+
+#logo{
+	position: relative;
+	left: 50px;
+}
+
+#picture{
+	position: absolute;
+	left: 250px;
+}
+
+#name{
+	position: fixed;
+	right: 20px;
+}
+
+.p1, ul{
+	color:red;
+}
+
+.p2 li{
+	color: blue;
+}
+
+.box {
+margin: 20px 10% 20px 10%;
+border: black 3px groove; 
+padding: 10px 20% 10px 20%;
+}
+
